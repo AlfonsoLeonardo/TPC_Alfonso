@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dominio
+namespace Negocio
 {
-    class Ingredientes
+    class NeogocioComida
     {
     }
+}
+public class Comida
+{
+
+ 
 }
